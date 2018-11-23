@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "394878452182",
+    "firebase_url": "https://proyectointegrador12-54f6a.firebaseio.com",
+    "project_id": "proyectointegrador12-54f6a",
+    "storage_bucket": "proyectointegrador12-54f6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394878452182:android:b60ce87392490e27",
+        "android_client_info": {
+          "package_name": "com.pierogranda.proyectointegrador12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394878452182-183fi9mvo5pm53clpomd9pofrr39ihpm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pierogranda.proyectointegrador12",
+            "certificate_hash": "ea060158c65096fe4d57641bf9faf04a4b7a816f"
+          }
+        },
+        {
+          "client_id": "394878452182-f1v99t8delcsnflfref84au94om42iii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqcCEkI8_d8haN__ESGR9AkRE7hpzvoWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394878452182-f1v99t8delcsnflfref84au94om42iii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
